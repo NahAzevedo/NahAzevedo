@@ -1,6 +1,7 @@
 ### Olá, eu sou a Nayara 👋
 
-- 🌱 I’m currently learning Flutter
+- 🌱 Sou formada em tecnologia da informação;
+- 🌱 Estou cursando Desenvolvimento de Software Multiplataforma; 
 
 
  <div>
