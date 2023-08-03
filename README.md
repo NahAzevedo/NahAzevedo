@@ -4,6 +4,13 @@
 - 🌱 Atualmente, estou cursando Desenvolvimento de Sistemas Multiplataformas - (4/6) na FATEC Registro;
 - 🌱 Desenvolvedora Front-end Angular;
 
+##
+ <div>
+  <a href="https://github.com/nahazevedo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahazevedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahazevedo&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+   
  ## Habilidades Técnicas
 
 - Linguagens de Programação:<br><br>
@@ -42,12 +49,7 @@
       <img src="https://learn.microsoft.com/pt-br/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AI900" height="150" style="margin-right: 20px;" />
       <p style="flex: 1;">Azure AI Fundamentals (AI-900): Conquistei a certificação AI-900 fornecida pela Microsoft. Essa certificação valida meus conhecimentos sobre os fundamentos da inteligência artificial e como ela é aplicada na plataforma Azure. O exame abrangeu tópicos como aprendizado de máquina, visão computacional, processamento de linguagem natural e ética em IA.</p>
     </div>
-##
- <div>
-  <a href="https://github.com/nahazevedo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nahazevedo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahazevedo&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
   
   ##
  
